@@ -1,0 +1,7 @@
+{
+  "name": "devlog",
+  "compatibility_date": "2026-04-30", // Update to the day you deploy
+  "assets": {
+    "directory": "./dist",
+  },
+}
